@@ -1,5 +1,13 @@
 package com.esertopcu.dpatterns.singleton;
 
+/*
+* 1-) EagerInitializationSingleton
+* 2-) LazyInitializationSingleton
+* 3-) ThreadedLazySingletonApp
+* 4-) ThreadedSafeLazySingletonApp
+* 5-) DoubleCheckedLockingSingletonApp
+* */
+
 public class SingletonApp {
     public static void main(String[] args) {
 
