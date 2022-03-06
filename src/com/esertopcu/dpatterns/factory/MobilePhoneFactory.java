@@ -11,7 +11,6 @@ public class MobilePhoneFactory {
             case APPLE   -> new Apple(name, price);
             case SAMSUNG -> new Samsung(name, price);
             case XIAOMI  -> new Xiaomi(name, price);
-            default -> throw new RuntimeException("Invalid Mobile Type!");
         };
     }
 }
