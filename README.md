@@ -5,3 +5,4 @@
 - ### *3-) Factory*
 - ### *4-) Abstract Factory*
 - ### *5-) Facade*
+- ### *6-) Adapter*
