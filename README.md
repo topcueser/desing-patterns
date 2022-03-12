@@ -7,3 +7,4 @@
 - ### *5-) Facade*
 - ### *6-) Adapter*
 - ### *7-) Bridge*
+- ### *8-) Strategy*
