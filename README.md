@@ -6,3 +6,4 @@
 - ### *4-) Abstract Factory*
 - ### *5-) Facade*
 - ### *6-) Adapter*
+- ### *7-) Bridge*
